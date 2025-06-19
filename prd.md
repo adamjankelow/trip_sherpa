@@ -2,7 +2,7 @@
 
 ## 1. Purpose
 
-Build a minimal, AI‑powered travel‑planning web app where users enter basic trip preferences and receive a day‑by‑day itinerary.
+Create a tiny travel‑assistant MVP that lets a user enter basic trip details (destination, days, interests) and instantly returns a summary itinerary using an AI prompt.  Primary objective: give you hands‑on practice with React, TypeScript, Next.js, Vercel and calling external APIs.
 
 ## 2. Goals & Success Metrics
 

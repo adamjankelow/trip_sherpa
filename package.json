@@ -11,7 +11,8 @@
     "scripts": {
         "dev": "next dev",
         "build": "next build",
-        "start": "next start"
+        "start": "next start",
+        "test": "vitest"
     },
     "devDependencies": {
         "@types/react": "19.1.8",
